@@ -23,11 +23,11 @@ We had a few notebooks to split up how we extracted and cleaned our data.
 	* In this notebook, we show the steps we took to scrape [IMDb](https://www.imdb.com/) with [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 =======
 1. [Web_Scraper.ipynb](https://github.com/corneth/project1/blob/master/Notebooks/Web_Scraper.ipynb)
-	* In this notebook, we show the steps we took to scrape [IMDb](https://www.imdb.com/) with [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). The scraped data was saved as [df_scraped.csv](https://github.com/snaik21352/project1/blob/master/df_scraped.csv)
+	* In this notebook, we show the steps we took to scrape [IMDb](https://www.imdb.com/) with [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). The scraped data was saved as [df_scraped.csv](https://github.com/corneth/project1/blob/master/df_scraped.csv)
 >>>>>>> 12dab822cfc9cf7580812a818a035a23ab50ebca
 =======
-1. [Web_Scraper.ipynb](https://github.com/snaik21352/project1/blob/master/Notebooks/Web_Scraper.ipynb)
-	* In this notebook, we show the steps we took to scrape [IMDb](https://www.imdb.com/) with [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). The scraped data was saved as [All_movies_year_1990-2020.csv](https://github.com/snaik21352/project1/blob/master/All_movies_year_1990-2020.csv)
+1. [Web_Scraper.ipynb](https://github.com/corneth/project1/blob/master/Notebooks/Web_Scraper.ipynb)
+	* In this notebook, we show the steps we took to scrape [IMDb](https://www.imdb.com/) with [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). The scraped data was saved as [All_movies_year_1990-2020.csv](https://github.com/corneth/project1/blob/master/All_movies_year_1990-2020.csv)
 >>>>>>> a206162bba53ebdbe150b25672999462bfed5b8c
 
 2. [Combining Data.ipynb](https://github.com/corneth/project1/blob/master/Notebooks/Combining%20Data.ipynb)
