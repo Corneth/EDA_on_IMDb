@@ -32,4 +32,4 @@ We had a few notebooks to split up how we extracted and cleaned our data.
 
 ## The Presentation
 
-You can find the Google Slides presentation [here](https://github.com/corneth/project1/blob/master/Mod_1_Proj_IMDB_Main_FINAL)
+You can find the Google Slides presentation [here](https://https://github.com/Corneth/project1/blob/master/Mod_1_Proj_IMDB_Main_FINAL)
